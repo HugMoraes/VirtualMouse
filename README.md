@@ -1,4 +1,4 @@
-## AI Virtual Mouse
+## Virtual Mouse
 
 Protótipo criado para apresentar nas semanas de tecnologia, o programa utiliza mediapipe para detecção de mão e converte os movimentos dela em movimento de mouse.
 
